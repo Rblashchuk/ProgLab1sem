@@ -1,0 +1,1 @@
+Repository for C-promgramming laboratory works (1 semester, ITMO)
